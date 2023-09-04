@@ -1,1 +1,24 @@
 # DS_INGRYDACA_GODWIN_-EJOGA_-MINI_PROJECT_3
+- Project 1:
+- Air traffic control simulation
+- TASK
+- Problem: Imagine you're an air traffic controller during a busy day at the airport. Due to an emergency, some flights need to make an emergency landing. Design a system that prioritizes these emergency landings over regular scheduled flights. Develop a program that takes flight details, including emergency status, and manages the landing queue efficiently.
+- EXPECTED RESULT
+- Display thesequence of seving emegency landing flights and scheduled flights.
+- OBJECTIVES
+- Design classes to manage flights and prioritize emergency situations.
+- Practice working with queues to manage the order of operations.
+- Understand the importance of prioritization in real-time systems.
+
+- Project 2:
+- File handling – word counter Problem:
+- TASK
+- You are tasked with developing a plagiarism detection system for a school. Given a text file containing a student's essay and a set of reference files, you need to determine if any part of the essay is copied from the reference materials. Design a program that reads and compares the essay with the reference files to identify potential plagiarism instances
+- EXPECTED OUTPUT
+- Display the frequency of each word in the provided text file.
+- Project 2:
+- OBJECTIVES
+- Learn how to read and process data from text files using file handling.
+- Practice tokenization of text into words for analysis.
+- Understand the basics of counting and analyzing data frequencies.
+- Gain experience in creating a simple text data analysis tool.
